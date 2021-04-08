@@ -1,7 +1,7 @@
 
-###Hi there, I'm Khushali 👋
+### Hi there, I'm Khushali 👋
 
-##I'm a Coder, Developer, and Learner!!
+## I'm a Coder, Developer, and Learner!!
 
 - 🤔 Goals :Exploring new technologies and apply it.
 - 🌱 I’m currently learning everything 🤣
