@@ -2,17 +2,19 @@
 <h1 align="center">Hi 👋, I'm Khushali</h1>
 <h3 align="center">I am a passionate Coder, Developer and Learner.</h3>
 
+<br>
+<h3>About me!</h3>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushali452&label=Profile%20views&color=0e75b6&style=flat" alt="khushali452" /> </p>
-
-- 🌱 I’m currently learning **everything 🤣.**
-
+- 👩‍🎓 I'm a **ICT engineering undergrad at Adani Institute of Infrastructure Engineering.**
+- 🌱 I’m a tech enthusiast and a **self taught programmer** currently learning **everything 🤣.**
 - 👯 I’m looking forward to collaborate with other **coders ,developers and contributors**
-
 - 👨‍💻 All of my projects are available at [https://khushali-vasani.netlify.app/](https://khushali-vasani.netlify.app/)
-
 - 📫 How to reach me **Khushalivasani.ict19@gmail.com**
-
 - ⚡ Fun fact **I love to sketch and play piano.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
