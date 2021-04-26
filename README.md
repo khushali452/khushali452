@@ -8,10 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushali452&label=Profile%20views&color=0e75b6&style=flat" alt="khushali452" /> </p>
 - 👩‍🎓 I'm a **ICT engineering undergrad at Adani Institute of Infrastructure Engineering.**
+
 - 🌱 I’m a tech enthusiast and a **self taught programmer** currently learning **everything 🤣.**
+
 - 👯 I’m looking forward to collaborate with other **coders ,developers and contributors**
+
 - 👨‍💻 All of my projects are available at [https://khushali-vasani.netlify.app/](https://khushali-vasani.netlify.app/)
+
 - 📫 How to reach me **Khushalivasani.ict19@gmail.com**
+
 - ⚡ Fun fact **I love to sketch and play piano.**
 
 
