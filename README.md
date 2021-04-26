@@ -7,6 +7,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushali452&label=Profile%20views&color=0e75b6&style=flat" alt="khushali452" /> </p>
+
 - 👩‍🎓 I'm a **ICT engineering undergrad at Adani Institute of Infrastructure Engineering.**
 
 - 🌱 I’m a tech enthusiast and a **self taught programmer** currently learning **everything 🤣.**
