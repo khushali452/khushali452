@@ -43,10 +43,6 @@
 <br>
 <h2 align="left"> Github Statistics 📈 </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushali452&langs_count=10&theme=tokyonight&layout=compact" alt="toplang khushali" height="250" width=45% /><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushali452&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" alt="github stats khushali" height="250" width=45% />
-  <br>
- 
- <img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight" />
 
 
 
