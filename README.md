@@ -1,52 +1,67 @@
+## Hello World :wave:
 
-<h1 align="left">Hi 👋, I'm Khushali</h1>
-<h3 align="left">I am a passionate Coder, Developer and Learner.</h3>
+<!--
+![](https://komarev.com/ghpvc/?username=khushali452&style=flat)
+-->
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
+
+![Visits Badge](https://badges.pufler.dev/visits/khushali452/khushali452/?color=white)
+![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white)
+
+
+I am a 3rd Year Undergrad pursuing Bachelors in Technology in Information and Communication Technology. <br><br>
+A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Enthusiastic Learner** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving herself and explore various things.
 
 <br>
-<h3>About me!</h3>
+
+- 📝 Checkout my [Portfolio](https://khushali-vasani.netlify.app/)
+- :superhero_man: Coding - I am an active competitive programmer.
+- :blue_heart: I am sharpening Data Structures and Algorithms.
+- :art: I am very creative and so are my web designs.
+- 📫 How to reach me [Mail](mailto:khushalivasani.ict19@gmail.com)
+- :sparkling_heart: Fun Fact - I love playing piano and do sketches. 
+
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushali452&label=Profile%20views&color=0e75b6&style=flat" alt="khushali452" /> </p>
-
-- 👩‍🎓 I'm a **ICT engineering undergrad at Adani Institute of Infrastructure Engineering.**
-- 🌱 I’m a tech enthusiast and a **self taught programmer** currently learning **Data structures and Algorithms.**
-- 👯 I’m looking forward to collaborate with other **coders ,developers and contributors**
-- 👨‍💻 All of my projects are available at [https://khushali-vasani.netlify.app/](https://khushali-vasani.netlify.app/)
-- 📫 How to reach me **Khushalivasani.ict19@gmail.com**
-- ⚡ Fun fact **I love to sketch and play piano.**
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-
- <a href="https://twitter.com/1225khushali" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a><a href="https://www.instagram.com/khushali_452/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a><a href="https://linkedin.com/in/khushali-vasani-1685231aa" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a><a href="mailto:khushalivasani.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
- 
- <p><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
- <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    </p>
+
+- **Languages** : JAVA | Python | C
+- **Web Development** : HTML | CSS | JAVASCRIPT | REACTJS | BOOTSTRAP | NODEJS
+- **Machine Learning Libraries** : Pandas | Numpy | OpenCV | ScikitLearn | Matplotlib | Seaborn
+- **Tools** : Github  
+- **Database** : MySQL    
+    
+ <br>   
 <br>
+
+<h2 align="left">Connect with me:</h2>
+
+
+ <a href="https://twitter.com/1225khushali" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a><a href="https://www.instagram.com/khushali_452/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a><a href="https://linkedin.com/in/khushali-vasani-1685231aa" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a><a href="mailto:khushalivasani.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
+
+
 <h2 align="left"> Github Statistics 📈 </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushali452&langs_count=10&theme=tokyonight&layout=compact" alt="toplang khushali" height="250" width=45% /><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushali452&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" alt="github stats khushali" height="250" width=45% />
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khushali452&show_icons=true&theme=tokyonight&count_private=true"
+            alt="khushali452's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight"
+            alt="khushali452's Github commit streak">
+    </a>
+    
+</div>
+
+
+
   <br>
  
- <img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight" />
-
-
+ 
 
