@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
 
 ![Visits Badge](https://badges.pufler.dev/visits/khushali452/khushali452/?color=white)
-![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white)
+![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white) 
 
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Information and Communication Technology. <br><br>
