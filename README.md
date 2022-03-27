@@ -10,7 +10,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white) 
 
 
-I am a 3rd Year Undergrad pursuing Bachelors in Technology in Information and Communication Technology. <br><br>
+I am a 3rd Year Undergrad pursuing BTech in Information and Communication Technology. <br><br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Enthusiastic Learner** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving herself and explore various things.
 
 <br>
