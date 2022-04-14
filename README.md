@@ -1,4 +1,4 @@
-## Hello World :wave:
+## Hello World : wave:
 
 <!--
 ![](https://komarev.com/ghpvc/?username=khushali452&style=flat)
@@ -39,7 +39,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
  <br>   
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me !</h2>
 
 
  <a href="https://twitter.com/1225khushali" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a><a href="https://www.instagram.com/khushali_452/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a><a href="https://linkedin.com/in/khushali-vasani-1685231aa" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a><a href="mailto:khushalivasani.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
@@ -53,6 +53,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
             alt="khushali452's Github stats">
     </a>
     <a href="#">
+
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight"
             alt="khushali452's Github commit streak">
     </a>
