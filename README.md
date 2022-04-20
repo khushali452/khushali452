@@ -1,4 +1,4 @@
-## Hello World : wave:
+## Hello World :wave:
 
 <!--
 ![](https://komarev.com/ghpvc/?username=khushali452&style=flat)
@@ -54,9 +54,9 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
     </a>
     <a href="#">
 
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight"
-            alt="khushali452's Github commit streak">
-    </a>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushali452&theme=tokyonight" />
+          
+    
     
 </div>
 
