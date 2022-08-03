@@ -5,8 +5,8 @@
 -->
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
+<img   src="https://komarev.com/ghpvc/?username=khushali452" alt="khushali" /> </p>
 
-![Visits Badge](https://badges.pufler.dev/visits/khushali452/khushali452/?color=white)
 ![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white) 
 
 
