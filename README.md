@@ -7,11 +7,11 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
 <img   src="https://komarev.com/ghpvc/?username=khushali452" alt="khushali" /> </p>
 
-![Repos Badge](https://badges.pufler.dev/repos/khushali452/?color=white) 
+
 
 
 I am a pre final year Undergrad pursuing BTech in Information and Communication Technology. <br><br>
-A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the idea of improving herself and explore various things.
+
 
 <br>
 
@@ -28,15 +28,7 @@ A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the ide
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 
-- **Languages** : JAVA | Python | C
-- **Web Development** : HTML | CSS | JAVASCRIPT | REACTJS | BOOTSTRAP | NODEJS
-- **Machine Learning Libraries** : Pandas | Numpy | OpenCV | ScikitLearn | Matplotlib | Seaborn
-- **Tools** : Github  
-- **Database** : MySQL    
-    
- <br>   
 <br>
 
 <h2 align="left">Connect with me !</h2>
